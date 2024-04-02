@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Christina Sinopli
+Christinaaaaa Sinopli
 
 ### Contact me
 
