@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Christinaaaaa Sinopli
+Irene Chryostomides
 
 ### Contact me
 
-[email@domain.com](csinopli@gmail.com)
+[email@domain.com](Irene_Chr@yahoo.gr)
