@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Irene Chryostomides
+Website admin: Irene Chryostomides
 
-### Contact me
+### Contact me at:
 
 [Irene_Chr@yahoo.gr](Irene_Chr@yahoo.gr)
