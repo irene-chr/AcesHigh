@@ -8,4 +8,4 @@ Irene Chryostomides
 
 ### Contact me
 
-[email@domain.com](Irene_Chr@yahoo.gr)
+[Irene_Chr@yahoo.gr](Irene_Chr@yahoo.gr)
